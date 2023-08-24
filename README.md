@@ -17,7 +17,7 @@ Here are some of the key areas I specialize in:
 
 - **Operating Systems:** Linux, Windows, Redhat
 - **Containerization:** Docker, Kubernetes
-- **Version Control:** Git
+- **Version Control:** Git, Gitlab, Github, Bitbucket
 - **Continuous Integration & Deployment:** Jenkins, CI/CD pipelines
 - **Automation:** Creating efficient and reliable automation scripts
 - **Security:** Implementing security best practices in DevOps processes
